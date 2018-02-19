@@ -1,5 +1,6 @@
 # Sedori-Interface
-An interface of my sedori. Please use this for learning HTML, CSS and JavaScript.
+An interface of my sedori. Please use this for learning HTML, CSS and JavaScript.<br>
+the interface is automatically made by another program(python) as the output file.<br>
 <img src="https://github.com/shutokawabata0723/Sedori-Interface/blob/master/sedori.png" width="900px"><br>
 
 # Purpose
