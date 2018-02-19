@@ -8,6 +8,9 @@ This interface is usually used for my sedori activation (getting money by sellin
 But, I thought that this interface can be used for learning html, css, and javascript.<br>
 It is difficult for begginer to know how html, css and javascript connect to one another.<br>
 
+# Server
+http://seoconsultant.sakura.ne.jp/shuto/data/farber.html
+
 # How to use
 `1. download all directories and files.`<br>
 `2. open farber.html`<br>
