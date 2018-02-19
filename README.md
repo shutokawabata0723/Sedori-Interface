@@ -11,6 +11,7 @@ It is difficult for begginer to know how html, css and javascript connect to one
 `1. download all directories and files.`<br>
 `2. open farber.html`<br>
 `3. You can check box and then play sound`<br>
+`4. You know how html, css and javascript connect to one another by reading code.`<br>
 
 
 # Licence
