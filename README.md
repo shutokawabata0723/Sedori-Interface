@@ -1,6 +1,6 @@
 # Sedori-Interface
 An interface of my sedori. Please use this for learning HTML, CSS and JavaScript.
-<img src="https://github.com/shutokawabata0723/Sedori-Interface/blob/master/sedori.png" width="800px"><br>
+<img src="https://github.com/shutokawabata0723/Sedori-Interface/blob/master/sedori.png" width="900px"><br>
 
 # Purpose
 If you are at depature of learning html, css and javascript, these programs and files would be tips.<br>
